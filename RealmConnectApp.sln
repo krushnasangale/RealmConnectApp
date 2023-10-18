@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealmConnectApp", "RealmConnectApp\RealmConnectApp.csproj", "{3DF8377F-BD1B-464F-A19E-B379D4F94034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF8377F-BD1B-464F-A19E-B379D4F94034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF8377F-BD1B-464F-A19E-B379D4F94034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF8377F-BD1B-464F-A19E-B379D4F94034}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3DF8377F-BD1B-464F-A19E-B379D4F94034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF8377F-BD1B-464F-A19E-B379D4F94034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF8377F-BD1B-464F-A19E-B379D4F94034}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {581E725D-ABFE-461E-B020-54AB2C2E0ECB}
+	EndGlobalSection
+EndGlobal
